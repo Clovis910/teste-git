@@ -6,5 +6,6 @@ public class OlaMundo {
             System.out.println("Ola Fulano");
 
             System.out.println("funcionalidade 2");
+            System.out.println("Feature1");
     }
 }
